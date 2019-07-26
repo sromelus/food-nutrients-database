@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # README
 
 This a simple command line program that retrieve data from two CSV files base on user input.
@@ -17,9 +15,3 @@ program specs
 * files 1 - Products.csv
 
 * files 2 - Nutrients.csv
-=======
-# food-nutrients-database
->>>>>>> b0ab41e6deb26060c6ad89b218ec1187fa3460a1
-=======
-# food-nutrients-database
->>>>>>> b0ab41e6deb26060c6ad89b218ec1187fa3460a1
